@@ -19,6 +19,6 @@
     package="co.aospa.framework">
 
     <uses-sdk
-        android:minSdkVersion="27" />
+        android:minSdkVersion="29" />
 
 </manifest>
